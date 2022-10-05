@@ -2,6 +2,13 @@
 
 I build a prtfolio app using flutter.
 Here are some screenshots of the screens in the application.
+~~ Refer to the screenshots folders in the repository to view the screenshots of the application. ~~
+
+The home page of the app has links to navigate to the projects page and to connect to me via LinkedIn.
+
+The projects page lists down the projects made by me. On clicking on the project title, the github repository of the project opens up.
+
+The icon of the app is also modified.
 
 
 ## Getting Started
