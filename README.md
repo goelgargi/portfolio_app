@@ -1,6 +1,8 @@
 # portfolio_app
 
-A new Flutter project.
+I build a prtfolio app using flutter.
+Here are some screenshots of the screens in the application.
+
 
 ## Getting Started
 
