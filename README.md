@@ -2,6 +2,7 @@
 
 I build a prtfolio app using flutter.
 Here are some screenshots of the screens in the application.
+
 ~~ Refer to the screenshots folders in the repository to view the screenshots of the application. ~~
 
 The home page of the app has links to navigate to the projects page and to connect to me via LinkedIn.
